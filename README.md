@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waliullahkarimi
 - 👀 I’m interested in ... software development
-- 🌱 I’m currently learning ...Python scripting language
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...Python
+- 💞️ I’m looking to collaborate on VOD and IPTV
 - 📫 How to reach me ...
 
 <!---
